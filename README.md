@@ -1,6 +1,16 @@
 # Data-Augmentation
 How to use Deep Learning when you have Limited Data 
 
+
+Here You can add the image path that you want to Augment. 
+img = load_img('')  
+
+Add how many images you wanna to generate from your selected image, in this case it's 200
+i += 1
+    if i > 200: 
+        break  # otherwise the generator would loop indefinitely
+
+
 Popular Augmentation Techniques
 
 **Flip**
