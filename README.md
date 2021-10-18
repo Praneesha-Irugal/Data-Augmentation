@@ -11,7 +11,6 @@ Add how many images you wanna to generate from your selected image, in this case
 * `i += 1
    if i > 200: 
        break  # otherwise the generator would loop indefinitely`
-*
 
 Popular Augmentation Techniques
 
