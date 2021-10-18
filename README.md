@@ -9,9 +9,9 @@ Here You can add the image path that you want to Augment.
 Add how many images you wanna to generate from your selected image, in this case it's 200
 
 * `i += 1
-*   if i > 200: 
- *      break  # otherwise the generator would loop indefinitely`
-
+   if i > 200: 
+       break  # otherwise the generator would loop indefinitely`
+*
 
 Popular Augmentation Techniques
 
